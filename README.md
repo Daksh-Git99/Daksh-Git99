@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Daksh 👋
+I'm a CSE student focused on building strong software engineering and open-source skills.
 
-<!--
-**Daksh-Git99/Daksh-Git99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Currently Learning
+- Programming fundamentals
+- Data Structures & Algorithms
+- Git & GitHub
+- Linux
+- Backend development
+- Cloud & infrastructure
+  
+## 🔧 Technical Interests
+- Software Engineering
+- Cloud Computing
+- Systems & Infrastructure
+- Open Source
+- Developer Tools
 
-Here are some ideas to get you started:
+## 🎯 Open Source Goal
+I'm working toward making meaningful contributions to open-source projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Current Focus
+Building real projects, understanding production codebases, and contributing consistently to open source.
+
+## 📫 Connect
+- GitHub: 
+- LinkedIn: www.linkedin.com/in/dakshwork99
+- Gmail: daksh.public99@gmmail.com

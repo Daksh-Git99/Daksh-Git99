@@ -23,6 +23,6 @@ I'm working toward making meaningful contributions to open-source projects.
 Building real projects, understanding production codebases, and contributing consistently to open source.
 
 ## 📫 Connect
-- GitHub: 
+- GitHub: https://github.com/Daksh-Git99
 - LinkedIn: www.linkedin.com/in/dakshwork99
 - Gmail: daksh.public99@gmmail.com

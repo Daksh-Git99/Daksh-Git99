@@ -17,10 +17,10 @@ I'm a CSE student focused on building strong software engineering and open-sourc
 - Developer Tools
 
 ## 🎯 Open Source Goal
-I'm working toward making meaningful contributions to open-source projects.
+I'm working toward making meaningful contributions to open-source products.
 
 ## 📌 Current Focus
-Building real projects, understanding production codebases, and contributing consistently to open source.
+Building real products, understanding production codebases, and contributing consistently to open source.
 
 ## 📫 Connect
 - GitHub: https://github.com/Daksh-Git99

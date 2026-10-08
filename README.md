@@ -26,4 +26,4 @@ Building real products, understanding production codebases, and contributing con
 - GitHub: 
 https://github.com/Daksh-Git99
 - LinkedIn: www.linkedin.com/in/dakshwork99
-- Gmail: daksh.public99@gmmail.com
+- Gmail: daksh.public99@gmail.com

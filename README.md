@@ -23,7 +23,6 @@ I'm working toward making meaningful contributions to open-source products.
 Building real products, understanding production codebases, and contributing consistently to open source.
 
 ## 📫 Connect
-- GitHub: 
-https://github.com/Daksh-Git99
+- Portfolio Web: https://daksh-portfolio-alpha.vercel.app
 - LinkedIn: www.linkedin.com/in/dakshwork99
 - Gmail: daksh.public99@gmail.com
